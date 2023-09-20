@@ -39,4 +39,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Built as a learning project to explore React state management and components.
 - Tailwind CSS for fast and responsive styling.
 
-Feel free to customize this README with your project-specific details, screenshots, and other information as needed.
